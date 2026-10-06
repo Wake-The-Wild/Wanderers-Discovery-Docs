@@ -1,0 +1,46 @@
+{
+  "canvas": [
+    256,
+    44
+  ],
+  "panel": [
+    48,
+    14,
+    208,
+    30
+  ],
+  "center": [
+    128,
+    22
+  ],
+  "top_rail": [
+    48,
+    9,
+    208,
+    14
+  ],
+  "bottom_rail": [
+    48,
+    30,
+    208,
+    35
+  ],
+  "rail_thickness": 5,
+  "left_joint": [
+    40,
+    9,
+    48,
+    35
+  ],
+  "right_joint": [
+    208,
+    9,
+    216,
+    35
+  ],
+  "bounds_convention": "left/top inclusive, right/bottom exclusive",
+  "alpha": [
+    0,
+    255
+  ]
+}

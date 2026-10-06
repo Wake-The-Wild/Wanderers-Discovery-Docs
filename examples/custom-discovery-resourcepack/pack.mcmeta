@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "description": "Moon Temple translation example for WD",
+    "min_format": [
+      97,
+      1
+    ],
+    "max_format": [
+      97,
+      1
+    ]
+  }
+}

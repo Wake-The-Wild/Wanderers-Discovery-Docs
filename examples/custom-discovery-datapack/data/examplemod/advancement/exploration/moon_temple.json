@@ -1,0 +1,21 @@
+{
+  "parent": "wanderers_discovery:exploration/root",
+  "criteria": {
+    "discovered": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "icon": {
+      "id": "minecraft:amethyst_shard"
+    },
+    "title": "Moon Temple",
+    "description": "Discover an ancient shrine.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "rewards": {
+    "experience": 25
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "structures": [
+    "minecraft:jungle_pyramid"
+  ],
+  "priority": 0,
+  "detection": "piece",
+  "suppress_cave_ambience": true,
+  "name": {
+    "translate": "poi.examplemod.moon_temple",
+    "fallback": "Moon Temple"
+  },
+  "heading": {
+    "translate": "hud.examplemod.temple_discovered",
+    "fallback": "Ancient shrine discovered"
+  },
+  "map_icon": "minecraft:amethyst_shard",
+  "banner_texture": "wanderers_discovery:textures/gui/discovery/default_banner.png",
+  "sound": {
+    "event": "wanderers_discovery:discovery.poi.generic",
+    "duration_ticks": 140,
+    "glow_peak_tick": 47,
+    "volume": 0.24,
+    "pitch": 1.0
+  },
+  "advancement": "examplemod:exploration/moon_temple",
+  "uses_vanilla_advancement": false
+}
